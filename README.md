@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @ridev6
+- 👀 I’m interested in RIDE programming language
